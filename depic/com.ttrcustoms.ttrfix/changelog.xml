@@ -1,0 +1,11 @@
+<changelog>
+	<changes>
+		<version>1.0.5b1</version>
+		<change>Latest release</change>
+		<change>iOS 10 Support</change>
+	</changes>
+	<changes>
+		<version>1.0.0-1</version>
+		<change>Initial Release</change>
+	</changes>
+</changelog>

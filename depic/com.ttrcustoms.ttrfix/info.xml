@@ -1,0 +1,41 @@
+<package>
+	<id>com.us.ttrcustoms.ttrfix</id>
+	<name>Full Package</name>
+	<version>1.0.5b1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>6.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Supposedly a fix for Tap Tap on newer iOS'es (iOS 6 and up).</description>
+		<description>It has more description lines.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia2.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Beta release</change>
+		<change>Support for iOS 10</change>
+	</changelog>
+	<links>
+		<link>
+			<name>My Twitter</name>
+			<url>https://www.twitter.com/dualmagazine
+	</links>
+</package>
