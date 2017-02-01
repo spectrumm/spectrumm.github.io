@@ -11,4 +11,5 @@ SHA256: 69A484A296152FF8EFC59EBA9A5D407FB2487E7A76E521C4454DC9A520B852C5
 Section: Tap Tap
 Description: A fix for Tap Tap on devices with iOS 7+
 Author: TTRCustoms <idontknow@mail.com>
+Depiction: http://spectrumm.github.io/depic/?p=com.ttrcustoms.ttrfix
 Name: Tap Tap Fix
