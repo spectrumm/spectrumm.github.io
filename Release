@@ -1,0 +1,9 @@
+Origin: Spectrum's Repo
+Label: Spectrum's Repo
+Suite: stable
+Version: 1.0
+Codename: Spectrum
+Architectures: iphoneos-arm
+Components: main
+Description: Here you will find the tweaks/apps i consider my own "essentials".
+MD5Sum:
