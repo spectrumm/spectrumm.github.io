@@ -1,0 +1,14 @@
+Package: <package>
+Version: <version>
+Architecture: iphoneos-arm
+Maintainer: spectrum <yohabbodude@gmail.com>
+Depends: mobilesubstrate
+Filename: debs//us.ttrcustoms.ttrfix.deb
+Size: 3978
+MD5sum: EC295D49DA65DFD4FD78ACA321D36546
+SHA1: 57F2B00CAE52736A98E530F4F30ABBA17FF76C5A
+SHA256: 69A484A296152FF8EFC59EBA9A5D407FB2487E7A76E521C4454DC9A520B852C5
+Section: Tap Tap
+Description: A fix for Tap Tap on devices with iOS 7+
+Author: TTRCustoms <idontknow@mail.com>
+Name: Tap Tap Fix
